@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "fuse"
+    },
+    {
+      "id": 1,
+      "name": "hv_capacitor"
+    },
+    {
+      "id": 2,
+      "name": "mov"
+    },
+    {
+      "id": 3,
+      "name": "optocoupler"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

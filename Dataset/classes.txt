@@ -1,0 +1,4 @@
+fuse
+hv_capacitor
+mov
+optocoupler
